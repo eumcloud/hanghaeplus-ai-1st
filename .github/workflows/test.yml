@@ -30,4 +30,4 @@ jobs:
       - name: Run MNIST test
         run: |
           source .venv/bin/activate
-          python mnist_test.py
+          python mnist.py
